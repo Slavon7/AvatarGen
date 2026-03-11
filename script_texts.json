@@ -1,0 +1,17 @@
+{
+    "texts": [
+        {
+            "id": "de",
+            "content": "Hallo! Suchen Sie einen Job? Wir haben ein interessantes Angebot für Sie. Unsere Fabriken suchen verantwortungsbewusste und motivierte Menschen. Worum geht es bei der Arbeit? Es geht um das Verpacken von Waren und das Anbringen von Etiketten – einfache Aufgaben, die keine Erfahrung erfordern. Sprechen Sie ein wenig Deutsch oder eine andere Sprache? Das ist ein Pluspunkt! Es gibt verschiedene Arbeitszeitmodelle. Interessiert? Besuchen Sie unsere offizielle Website – dort finden Sie alle wichtigen Informationen. Über 100 Stellenangebote in verschiedenen Städten. Sie erfahren auch, wie viel Sie verdienen können. Werden Sie Teil unseres Teams. Entdecken Sie Ihre Möglichkeiten!"
+        },
+        {
+            "id": "eng",
+            "content": "Are you looking for a job? We have an exciting opportunity for you! Our factories are looking for responsible and motivated individuals. What’s the job about? Packaging products and labeling items — simple tasks that don't require any experience. Do you speak a little English or another language? That's a big plus! We offer various work schedules to fit your needs. Interested? Visit our official website to find all the information you need. We have over 100 job offers in different cities, and you can also see how much you can earn. Join us today! Explore your options and become part of our team."
+        },
+        {
+            "id": "fr",
+            "content": "Bonjour, vous cherchez un emploi? Nous avons une offre intéressante pour vous. Nos usines recherchent des personnes responsables et motivées. Quel est le travail ? Il s'agit d'emballer des produits et de coller des étiquettes. Des tâches simples, accessibles même sans expérience. Vous parlez un peu français ou une autre langue ? C’est un plus! Différents horaires sont disponibles. Intéressé(e) ? Rendez-vous sur notre site officiel – vous y trouverez toutes les informations nécessaires. Plus de 100 offres d'emploi dans différentes villes. Vous découvrirez également combien vous pouvez gagner. Rejoignez-nous!"
+        }
+    ],
+    "default_text_id": "de"
+}

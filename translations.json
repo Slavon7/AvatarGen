@@ -1,0 +1,50 @@
+{
+    "Українська": {
+        "main": {
+            "base_url": "Базовий URL:",
+            "edit": "Редагувати",
+            "save": "Зберегти",
+            "email": "Електронна пошта:",
+            "password": "Пароль:",
+            "repeat_count": "Кількість повторів:",
+            "enable_subtitles": "Увімкнути субтитри",
+            "with_watermark": "З водяним знаком",
+            "resolution": "Роздільна здатність:",
+            "quality": "Якість:",
+            "framerate": "Кадрова частота:",
+            "format": "Формат:",
+            "show_config": "Показати конфіг"
+        },
+        "settings": {
+            "developer": "Розробник: Viacheslav Omeniuk",
+            "language": "Мова:",
+            "theme": "Тема:",
+            "main_button": "Головна",
+            "settings_button": "Налаштування"
+        }
+    },
+  "English": {
+    "main": {
+      "base_url": "Base URL:",
+      "edit": "Edit",
+      "save": "Save",
+      "email": "Email:",
+      "password": "Password:",
+      "repeat_count": "Repeat Count:",
+      "enable_subtitles": "Enable Subtitles",
+      "with_watermark": "With Watermark",
+      "resolution": "Resolution:",
+      "quality": "Quality:",
+      "framerate": "Framerate:",
+      "format": "Format:",
+      "show_config": "Show Config"
+    },
+    "settings": {
+      "developer": "Developer: Viacheslav Omeniuk",
+      "language": "Language:",
+      "theme": "Theme:",
+      "main_button": "Main",
+      "settings_button": "Settings"
+    }
+  }
+}
